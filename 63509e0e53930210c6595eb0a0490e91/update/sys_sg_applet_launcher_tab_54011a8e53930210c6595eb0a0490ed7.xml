@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="RK">50011a4e53930210c6595eb0a0490e13</applet_launcher>
+        <icon display_value="Home RK">94011a8e53930210c6595eb0a0490ed7</icon>
+        <label>RK</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-11 09:33:08</sys_created_on>
+        <sys_id>54011a8e53930210c6595eb0a0490ed7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RK</sys_name>
+        <sys_package display_value="RK" source="x_693713_rk">63509e0e53930210c6595eb0a0490e91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RK">63509e0e53930210c6595eb0a0490e91</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_54011a8e53930210c6595eb0a0490ed7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-11 09:33:08</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

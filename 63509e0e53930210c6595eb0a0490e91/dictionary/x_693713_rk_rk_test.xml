@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="95e0568e53930210c6595eb0a0490e70" extends="task" label="RK Test" max_length="40" name="x_693713_rk_rk_test" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Test" max_length="40" name="test" type="string"/>
+    </element>
+</database>
